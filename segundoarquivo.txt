@@ -1,0 +1,1 @@
+testando como funciona o git push sem precisar escrever nada depois. por que as vezes pode e as vezes não?
